@@ -34,11 +34,11 @@ Passionate about building scalable backend systems, designing efficient database
 
 ### What I Do
 
-✓ Build REST APIs
-✓ Design relational databases
-✓ Optimize SQL queries
-✓ Develop backend applications
-✓ Implement authentication and authorization
+✓ Build REST APIs  
+✓ Design relational databases  
+✓ Optimize SQL queries  
+✓ Develop backend applications  
+✓ Implement authentication and authorization  
 ✓ Containerize applications with Docker
 
 ---
