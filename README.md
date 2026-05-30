@@ -34,16 +34,16 @@ Passionate about building scalable backend systems, designing efficient database
 
 ### What I Do
 
-✔ Build REST APIs  
-✔ Design relational databases  
-✔ Optimize SQL queries  
-✔ Develop backend applications  
-✔ Implement authentication and authorization  
-✔ Containerize applications with Docker
+✓ Build REST APIs
+✓ Design relational databases
+✓ Optimize SQL queries
+✓ Develop backend applications
+✓ Implement authentication and authorization
+✓ Containerize applications with Docker
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresAlvarado08&show_icons=true&theme=tokyonight)
 
